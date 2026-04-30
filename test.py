@@ -13,4 +13,4 @@ if sigma == True:
 if humble == True:
     print("You are humble which makes you a Sigma")
 elif humble == False:
-    print("You are NOT a Sigma")
+    print("You are NOT humble or you suck at typing so you art NOT a Sigma")
