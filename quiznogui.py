@@ -1,0 +1,1 @@
+questions = ["How much water is used to cool 1 kilowatt hour of energy in datacenters?", "How much energy is AI projected to use this year?"]
